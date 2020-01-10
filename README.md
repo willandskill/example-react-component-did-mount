@@ -1,4 +1,4 @@
-# Example - React componentDidMount
+# Exempel - React componentDidMount
 
 Ett exempel på när componentDidMount() används - en lifecycle metod i React
 
